@@ -1,0 +1,16 @@
+body {
+    background: #181817;
+    color: #85BF25;
+}
+.header {
+    background: #DDD;
+    height: 20px;
+    text-align: center;
+    color: #181817;
+}
+#navbutton {
+
+    background: #DDD;
+    width: 100px;
+    margin: 0 auto
+}
